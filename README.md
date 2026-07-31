@@ -42,7 +42,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - 🌐 **Portfolio:** [Your Portfolio Website Link](https://your-portfolio-domain.com)
 - 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/musa-imran-559b6539a/)
 - 📧 **Email:** [musasheikh824@gmail.com](mailto:musasheikh824@gmail.com)
-- 💬 **WhatsApp:** [Chat with me](https://wa.me/923066358436)
+- 💬 **WhatsApp:** [Chat with me](https://wa.me/923066258436)
 
 ---
 
