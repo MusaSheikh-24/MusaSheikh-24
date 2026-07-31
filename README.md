@@ -1,38 +1,50 @@
-# 💻 Musa Imran — MERN Stack Developer @ SyncOps.Tech
+# 👋 Hi there, I'm Musa Imran!
 
-⚙️ Full-stack engineer passionate about building scalable, intelligent web systems  
-under the [SyncOps.Tech](https://syncops.tech) AI SaaS ecosystem.
-
----
-
-## 🧠 About Me
-
-- 🧩 MERN Stack Developer — *MongoDB · Express.js · React.js · Node.js*
-- 🏗️ Building end-to-end solutions for *SmartProperty* & *GeoPulse*
-- 🔐 Focused on *clean APIs, **scalable databases, and **efficient UI flows*
-- 🧠 Exploring *Next.js 14* and *TypeScript* integration  
+### 🚀 Frontend Developer & Web Designer
+I craft beautiful, responsive, and high-performance web experiences using modern technologies. Passionate about clean code, intuitive UI/UX, and bringing designs to life.
 
 ---
 
-## 🧰 Tech Stack
+## 💼 About Me
 
-| Backend | Frontend | Tools |
-|----------|-----------|-------|
-| Node.js | React.js | Git / GitHub |
-| Express.js | Next.js | Docker |
-| MongoDB | Tailwind CSS | VS Code |
-
----
-
-## 🔗 Projects @ SyncOps
-
-| Product | Description | Live Demo |
-|----------|--------------|-----------|
-| *SmartProperty* | 🏠 AI-driven property recommendation platform | [smartproperty.syncops.tech](https://smartproperty.syncops.tech) |
-| *GeoPulse* | 🌍 AI-powered geospatial analytics platform | [geopulse.syncops.tech](https://geopulse.syncops.tech) |
-
+- 💻 **Frontend Specialist:** Building scalable, pixel-perfect web applications with **Next.js**, **React**, and **TypeScript**.
+- 🎨 **Web Designer:** Focused on modern UI/UX, responsive layouts, and smooth animations (Tailwind CSS, Framer Motion).
+- 🏢 **Professional Experience:** Currently developing modern SaaS platforms and AI-driven web solutions.
+- 🤖 **AI-Assisted Workflow:** Leveraging tools like Cursor AI to write cleaner, more efficient code faster.
+- 🌱 **Always Learning:** Exploring advanced Next.js patterns, performance optimization, and modern web standards.
 
 ---
 
-> “Write code that scales, not just runs.”  
-> — Musa Imran
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | Next.js, React.js, TypeScript, JavaScript (ES6+) |
+| **Styling** | Tailwind CSS, HTML5, CSS3, Framer Motion, Styled Components |
+| **Backend** | Node.js, Express.js, MongoDB *(MERN Stack)* |
+| **Tools** | Git, GitHub, VS Code, Cursor AI, Qwen, command-code |
+
+---
+
+## 🎯 What I Build
+
+- ⚡ **High-Performance Web Apps:** Fast, SEO-friendly applications using Next.js App Router.
+- 📱 **Responsive Designs:** Mobile-first, accessible interfaces that look great on any device.
+- 🎨 **Modern Dashboards:** Clean, data-rich UI components for SaaS and enterprise platforms.
+- 🤝 **Collaborative Solutions:** Bridging the gap between design (Figma) and development.
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+- 🌐 **Portfolio:** [Your Portfolio Website Link](https://your-portfolio-domain.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/musa-imran-559b6539a/)
+- 📧 **Email:** [musasheikh824@gmail.com](mailto:musasheikh824@gmail.com)
+- 💬 **WhatsApp:** [Chat with me](https://wa.me/923066358436)
+
+---
+
+> *"Write code that scales, design interfaces that inspire."*  
+> — **Musa Imran**
