@@ -24,7 +24,7 @@ I build modern, responsive, and visually engaging web experiences using modern f
 | **Frontend** | Next.js, React.js, JavaScript, TypeScript |
 | **Styling** | Tailwind CSS, HTML5, CSS3 |
 | **Animation** | Framer Motion |
-| **UI/UX** | Responsive Design, UI Implementation, Figma |
+| **UI/UX** | Responsive Design, UI Implementation |
 | **Tools** | Git, GitHub, VS Code, Cursor AI, Qwen |
 
 ---
