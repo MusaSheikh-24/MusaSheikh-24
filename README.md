@@ -1,17 +1,19 @@
-# 👋 Hi there, I'm Musa Imran!
+# 👋 Hi, I'm Musa Imran
 
 ### 🚀 Frontend Developer & Web Designer
-I craft beautiful, responsive, and high-performance web experiences using modern technologies. Passionate about clean code, intuitive UI/UX, and bringing designs to life.
+
+I build modern, responsive, and visually engaging web experiences using modern frontend technologies. I enjoy turning UI/UX designs into clean, responsive, and interactive websites.
 
 ---
 
 ## 💼 About Me
 
-- 💻 **Frontend Specialist:** Building scalable, pixel-perfect web applications with **Next.js**, **React**, and **TypeScript**.
-- 🎨 **Web Designer:** Focused on modern UI/UX, responsive layouts, and smooth animations (Tailwind CSS, Framer Motion).
-- 🏢 **Professional Experience:** Currently developing modern SaaS platforms and AI-driven web solutions.
-- 🤖 **AI-Assisted Workflow:** Leveraging tools like Cursor AI to write cleaner, more efficient code faster.
-- 🌱 **Always Learning:** Exploring advanced Next.js patterns, performance optimization, and modern web standards.
+- 💻 **Frontend Developer:** Building responsive web applications with **Next.js, React.js, JavaScript, and TypeScript**.
+- 🎨 **Web Designer:** Creating modern UI/UX designs with **Tailwind CSS, CSS3, Framer Motion, and responsive design principles**.
+- ⚡ **Performance Focused:** Building fast, responsive, and SEO-friendly websites with Next.js.
+- 🤖 **AI-Assisted Development:** Using **Cursor AI and Qwen** to improve development speed, debugging, and productivity.
+- 🧩 **Component-Based Development:** Creating reusable and maintainable frontend components.
+- 🌱 **Always Learning:** Continuously improving my frontend development, UI/UX, and modern web development skills.
 
 ---
 
@@ -19,32 +21,89 @@ I craft beautiful, responsive, and high-performance web experiences using modern
 
 | Category | Technologies |
 |----------|--------------|
-| **Frontend** | Next.js, React.js, TypeScript, JavaScript (ES6+) |
-| **Styling** | Tailwind CSS, HTML5, CSS3, Framer Motion, Styled Components |
-| **Backend** | Node.js, Express.js, MongoDB *(MERN Stack)* |
-| **Tools** | Git, GitHub, VS Code, Cursor AI, Qwen, command-code |
+| **Frontend** | Next.js, React.js, JavaScript, TypeScript |
+| **Styling** | Tailwind CSS, HTML5, CSS3 |
+| **Animation** | Framer Motion |
+| **UI/UX** | Responsive Design, UI Implementation, Figma |
+| **Tools** | Git, GitHub, VS Code, Cursor AI, Qwen |
 
 ---
 
 ## 🎯 What I Build
 
-- ⚡ **High-Performance Web Apps:** Fast, SEO-friendly applications using Next.js App Router.
-- 📱 **Responsive Designs:** Mobile-first, accessible interfaces that look great on any device.
-- 🎨 **Modern Dashboards:** Clean, data-rich UI components for SaaS and enterprise platforms.
-- 🤝 **Collaborative Solutions:** Bridging the gap between design (Figma) and development.
+- ⚡ **Modern Web Applications**  
+  Fast and responsive websites using Next.js and React.
+
+- 🎨 **UI/UX Websites**  
+  Modern, clean, and visually engaging interfaces.
+
+- 📱 **Responsive Websites**  
+  Mobile-first layouts that work across desktop, tablet, and mobile.
+
+- 🛍️ **E-commerce Interfaces**  
+  Product pages, shopping experiences, dashboards, and modern storefronts.
+
+- 🏢 **Business Websites**  
+  Professional websites designed to present businesses and services effectively.
+
+- ✨ **Interactive Experiences**  
+  Smooth animations and interactions using Framer Motion.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 ShopVerse — E-commerce Website
+
+A modern responsive e-commerce frontend with product listings, shopping cart functionality, and a mobile-first UI.
+
+🔗 **Live:** https://shop-verse-five-ashen.vercel.app/
+
+---
+
+### 🖨️ 3D Printer Business Website
+
+A modern business website designed for a 3D printer company with responsive product showcases and professional UI.
+
+🔗 **Live:** https://3d-printer-one.vercel.app/
+
+---
+
+### 💻 Personal Portfolio
+
+My personal portfolio showcasing my frontend development and web design projects.
+
+🔗 **Live:** https://musa-imran.vercel.app/
+
+---
+
+## 📊 GitHub Activity
+
+I use GitHub to manage my projects, practice frontend development, and continuously improve my coding skills.
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+I'm open to **Frontend Developer, Web Designer, and UI/UX opportunities**, freelance projects, and collaborations.
 
-- 🌐 **Portfolio:** [Your Portfolio Website Link](https://your-portfolio-domain.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/musa-imran-559b6539a/)
-- 📧 **Email:** [musasheikh824@gmail.com](mailto:musasheikh824@gmail.com)
-- 💬 **WhatsApp:** [Chat with me](https://wa.me/923066258436)
+🌐 **Portfolio:**  
+https://musa-imran.vercel.app/
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/musa-imran-172s/
+
+📧 **Email:**  
+musasheikh824@gmail.com  
+musaimran825@gmail.com
+
+📱 **WhatsApp:**  
++92 306 6258436
 
 ---
 
-> *"Write code that scales, design interfaces that inspire."*  
-> — **Musa Imran**
+### 💡 My Goal
+
+> Build modern interfaces, write clean frontend code, and create web experiences that users enjoy.
+
+**— Musa Imran**
